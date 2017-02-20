@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/video_0.png?itok=gW0E5_U6",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/video_0.png?itok=TfGXPbL4",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/video_0.png?itok=vOYqJFuQ",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/Ask_Italian_Video_Example_4.mp4",
+        "mimetype": "video/mp4",
+        "filesize": "6507297"
+      },
+      "title": "Video 1",
+      "description": "",
+      "cms_id": "64",
+      "category": [
+        {
+          "id": "8",
+          "name": "Videos"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/calendar_1.png?itok=WQzCfZiV",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/calendar_1.png?itok=j4ID7lG1",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/calendar_1.png?itok=MmDfzpSi",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/United%20Kingdom%20October%202016%20-%20September%202017_0.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "200819"
+      },
+      "title": "Acurian Study Calendar",
+      "description": "Acurian Study Calendar\r\n",
+      "cms_id": "65",
+      "category": [
+        {
+          "id": "10",
+          "name": "Newsletters"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=p4JOU0QO",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=2oc2RvLV",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=sqXT23aI",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2017-02/Rev%20SIF.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "95221"
+      },
+      "title": "gk test 0302",
+      "description": "gk test 0302\r\n",
+      "cms_id": "321",
+      "category": [
+        {
+          "id": "36",
+          "name": "Newsletter"
+        }
+      ]
+    }
+  ]
+}
