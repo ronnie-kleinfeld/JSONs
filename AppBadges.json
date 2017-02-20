@@ -1,0 +1,234 @@
+{
+  "app_badges": [
+    {
+      "category": {
+        "id": 18,
+        "name": "Registered"
+      },
+      "message": "<p>Awesome! You've registered your app.</p>\r\n",
+      "title": "App. Registered",
+      "awarded": true,
+      "badgeId": 10,
+      "image": {
+        "small": {
+          "2x": {
+            "width": 260,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/appbadge.jpg?itok=18LFiR31",
+            "height": 260
+          },
+          "3x": {
+            "width": 441,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/appbadge.jpg?itok=yd8ldHHe",
+            "height": 441
+          },
+          "1x": {
+            "width": 200,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/appbadge.jpg?itok=UGXp-WSZ",
+            "height": 200
+          }
+        },
+        "medium": {
+          "2x": {
+            "width": 375,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_2x/public/2016-10/appbadge.jpg?itok=BOaBUtn-",
+            "height": 375
+          },
+          "3x": {
+            "width": 621,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_3x/public/2016-10/appbadge.jpg?itok=z59nD2zX",
+            "height": 621
+          },
+          "1x": {
+            "width": 320,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_1x/public/2016-10/appbadge.jpg?itok=UJDtloLr",
+            "height": 320
+          }
+        }
+      }
+    },
+    {
+      "category": {
+        "id": 19,
+        "name": "First use"
+      },
+      "message": "<p>This is your first time use.</p>\r\n",
+      "title": "First Use",
+      "awarded": false,
+      "badgeId": 11,
+      "image": {
+        "small": {
+          "2x": {
+            "width": 260,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-11/number-1-sign.jpg?itok=wkxfqHkV",
+            "height": 260
+          },
+          "3x": {
+            "width": 441,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-11/number-1-sign.jpg?itok=VAA90ilV",
+            "height": 441
+          },
+          "1x": {
+            "width": 200,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-11/number-1-sign.jpg?itok=xrwuFc5l",
+            "height": 200
+          }
+        },
+        "medium": {
+          "2x": {
+            "width": 375,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_2x/public/2016-11/number-1-sign.jpg?itok=QA_usMIQ",
+            "height": 375
+          },
+          "3x": {
+            "width": 621,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_3x/public/2016-11/number-1-sign.jpg?itok=UpBfxbsE",
+            "height": 621
+          },
+          "1x": {
+            "width": 320,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_1x/public/2016-11/number-1-sign.jpg?itok=nNGyJAad",
+            "height": 320
+          }
+        }
+      }
+    },
+    {
+      "category": {
+        "id": 20,
+        "name": "Second use"
+      },
+      "message": "<p>Apparently; you like this application!</p>\r\n",
+      "title": "Second Use",
+      "awarded": true,
+      "badgeId": 12,
+      "image": {
+        "small": {
+          "2x": {
+            "width": 260,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/badge-2_0.png?itok=_u2Pj6kg",
+            "height": 260
+          },
+          "3x": {
+            "width": 441,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/badge-2_0.png?itok=jc03iSFL",
+            "height": 441
+          },
+          "1x": {
+            "width": 200,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/badge-2_0.png?itok=kerpbLzt",
+            "height": 200
+          }
+        },
+        "medium": {
+          "2x": {
+            "width": 375,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_2x/public/2016-10/badge-2_0.png?itok=bz8Z-e6x",
+            "height": 375
+          },
+          "3x": {
+            "width": 621,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_3x/public/2016-10/badge-2_0.png?itok=emQRHloV",
+            "height": 621
+          },
+          "1x": {
+            "width": 320,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_1x/public/2016-10/badge-2_0.png?itok=CYynXLyo",
+            "height": 320
+          }
+        }
+      }
+    },
+    {
+      "category": {
+        "id": 13,
+        "name": "Bravery"
+      },
+      "message": "<p>You've earned&nbsp;Bravery Badge!</p>\r\n",
+      "title": "Bravery Badge",
+      "awarded": false,
+      "badgeId": 16,
+      "image": {
+        "small": {
+          "2x": {
+            "width": 260,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-11/Bravery.gif?itok=9oMz2fa9",
+            "height": 260
+          },
+          "3x": {
+            "width": 441,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-11/Bravery.gif?itok=yXyASxF9",
+            "height": 441
+          },
+          "1x": {
+            "width": 200,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-11/Bravery.gif?itok=hbfYZ8AK",
+            "height": 200
+          }
+        },
+        "medium": {
+          "2x": {
+            "width": 375,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_2x/public/2016-11/Bravery.gif?itok=cMM9cIZR",
+            "height": 375
+          },
+          "3x": {
+            "width": 621,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_3x/public/2016-11/Bravery.gif?itok=uA776inl",
+            "height": 621
+          },
+          "1x": {
+            "width": 320,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_1x/public/2016-11/Bravery.gif?itok=05yuYmEn",
+            "height": 320
+          }
+        }
+      }
+    },
+    {
+      "category": {
+        "id": 24,
+        "name": "Endurance"
+      },
+      "message": "<p>Completing a visit that is very long</p>\r\n",
+      "title": "Endurance",
+      "awarded": false,
+      "badgeId": 30,
+      "image": {
+        "small": {
+          "2x": {
+            "width": 260,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-11/Endurance.gif?itok=kaBz2ImH",
+            "height": 260
+          },
+          "3x": {
+            "width": 441,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-11/Endurance.gif?itok=8_CY0z47",
+            "height": 441
+          },
+          "1x": {
+            "width": 200,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-11/Endurance.gif?itok=saTTL_Jk",
+            "height": 200
+          }
+        },
+        "medium": {
+          "2x": {
+            "width": 375,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_2x/public/2016-11/Endurance.gif?itok=fMyTPJ7r",
+            "height": 375
+          },
+          "3x": {
+            "width": 621,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_3x/public/2016-11/Endurance.gif?itok=T9O6nLxE",
+            "height": 621
+          },
+          "1x": {
+            "width": 320,
+            "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_m_1x/public/2016-11/Endurance.gif?itok=2Jqd-UNk",
+            "height": 320
+          }
+        }
+      }
+    }
+  ]
+}
