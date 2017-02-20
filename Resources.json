@@ -1,0 +1,491 @@
+{
+  "resources": [
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/video_0.png?itok=gW0E5_U6",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/video_0.png?itok=TfGXPbL4",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/video_0.png?itok=vOYqJFuQ",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/Ask_Italian_Video_Example_4.mp4",
+        "mimetype": "video/mp4",
+        "filesize": "6507297"
+      },
+      "title": "Video 1",
+      "description": "",
+      "cms_id": "64",
+      "category": [
+        {
+          "id": "8",
+          "name": "Videos"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/calendar_1.png?itok=WQzCfZiV",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/calendar_1.png?itok=j4ID7lG1",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/calendar_1.png?itok=MmDfzpSi",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/United%20Kingdom%20October%202016%20-%20September%202017_0.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "200819"
+      },
+      "title": "Acurian Study Calendar",
+      "description": "Acurian Study Calendar\r\n",
+      "cms_id": "65",
+      "category": [
+        {
+          "id": "10",
+          "name": "Newsletters"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/guide_0.jpg?itok=w7S-NOIb",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/guide_0.jpg?itok=P6PlAlaC",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/guide_0.jpg?itok=4eSkDx_t",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/Trials%20Summary_2.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "710623"
+      },
+      "title": "Acurian Visit Info",
+      "description": "Acurian Patient Visit Info\r\n",
+      "cms_id": "66",
+      "category": [
+        {
+          "id": "6",
+          "name": "Visit Guide"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/video_2.png?itok=mFhFWpwO",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/video_2.png?itok=x9l1YVy_",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/video_2.png?itok=EKJsT7ua",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/SampleVideo_640x360_10mb_0.mp4",
+        "mimetype": "video/mp4",
+        "filesize": "10543621"
+      },
+      "title": "Video 2",
+      "description": "",
+      "cms_id": "68",
+      "category": [
+        {
+          "id": "8",
+          "name": "Videos"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/guide_3.jpg?itok=zXfRLTds",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/guide_3.jpg?itok=tZm5goyP",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/guide_3.jpg?itok=4hEnfNeF",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/Protocol-Guidance_2.docx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "filesize": "239855"
+      },
+      "title": "Protocol Info",
+      "description": "Info regarding your protocol\r\n",
+      "cms_id": "75",
+      "category": [
+        {
+          "id": "7",
+          "name": "Study Information"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/schedule_0.png?itok=0XoRI4eb",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/schedule_0.png?itok=oLRr51Q-",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/schedule_0.png?itok=POrZVi2A",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/ProtocolSchedule_1.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "1083127"
+      },
+      "title": "Procedure Schedule",
+      "description": "Procedure Schedule\r\n",
+      "cms_id": "81",
+      "category": [
+        {
+          "id": "9",
+          "name": "Schedule of Procedures"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/guide_8.jpg?itok=BMEo9AmO",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/guide_8.jpg?itok=frAhcBIu",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/guide_8.jpg?itok=Dxf8kGSs",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/visit%20guide%20text_2.txt",
+        "mimetype": "text/plain",
+        "filesize": "3698"
+      },
+      "title": "Visit Guide Text",
+      "description": "Visit Guide Text\r\n",
+      "cms_id": "83",
+      "category": [
+        {
+          "id": "6",
+          "name": "Visit Guide"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/video_10.png?itok=T_XGxYd2",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/video_10.png?itok=q7GAHgjn",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/video_10.png?itok=RdR6Gcb1",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/Givebloodexitscreen_1.mp4",
+        "mimetype": "video/mp4",
+        "filesize": "1783694"
+      },
+      "title": "New Video GK",
+      "description": "New Video GK\r\n",
+      "cms_id": "85",
+      "category": [
+        {
+          "id": "8",
+          "name": "Videos"
+        }
+      ]
+    },
+    {
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/DiReCT_Newsletter-_December_2012.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "99858"
+      },
+      "title": "Newsletter",
+      "description": "rule 1\r\n\r\nrule 2&nbsp;\r\n",
+      "cms_id": "94",
+      "category": [
+        {
+          "id": "36",
+          "name": "Newsletter"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/2016-10/guide_11.jpg?itok=ye9fAOnu",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/2016-10/guide_11.jpg?itok=w1i76uRG",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/2016-10/guide_11.jpg?itok=NdRq3ECq",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/2016-10/visit%20guid_1.txt",
+        "mimetype": "text/plain",
+        "filesize": "988"
+      },
+      "title": "Visit guide 2",
+      "description": "Visit guide 2\r\n",
+      "cms_id": "99",
+      "category": [
+        {
+          "id": "6",
+          "name": "Visit Guide"
+        }
+      ]
+    },
+    {
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/disease-management.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "160242"
+      },
+      "title": "Disease Management",
+      "description": "Disease Management\r\n",
+      "cms_id": "181",
+      "category": [
+        {
+          "id": "37",
+          "name": "Disease Management"
+        }
+      ]
+    },
+    {
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/guidetoclinicaltrials.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "756810"
+      },
+      "title": "FAQ",
+      "description": "FAQ\r\n",
+      "cms_id": "182",
+      "category": [
+        {
+          "id": "38",
+          "name": "FAQs"
+        }
+      ]
+    },
+    {
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/ICF.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "121707"
+      },
+      "title": "Blank ICF",
+      "description": "Blank ICF\r\n",
+      "cms_id": "183",
+      "category": [
+        {
+          "id": "39",
+          "name": "Blank ICF"
+        }
+      ]
+    },
+    {
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/london-rail-and-tube-services-map.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "192211"
+      },
+      "title": "Transport Links",
+      "description": "",
+      "cms_id": "184",
+      "category": [
+        {
+          "id": "47",
+          "name": "Transportation Assistance"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/resources/patient-app/previews/2016-11/8B2A5885.jpg?itok=s7Nf6uZa",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/resources/patient-app/previews/2016-11/8B2A5885.jpg?itok=zxVmzisc",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/resources/patient-app/previews/2016-11/8B2A5885.jpg?itok=3Tdj3d9m",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-11/Prod_RPA_3301.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "83702"
+      },
+      "title": "Calendar 2016",
+      "description": "Study calendar test\r\n",
+      "cms_id": "213",
+      "category": [
+        {
+          "id": "10",
+          "name": "Newsletters"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/resources/patient-app/previews/2016-12/Berat.gif?itok=kncoRjPI",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/resources/patient-app/previews/2016-12/Berat.gif?itok=l-lKFRoo",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/resources/patient-app/previews/2016-12/Berat.gif?itok=Ere8si4g",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2016-12/RMA-68%20Help%20Screens.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "764456"
+      },
+      "title": "new faq retire",
+      "description": "new faq retire\r\n",
+      "cms_id": "307",
+      "category": [
+        {
+          "id": "38",
+          "name": "FAQs"
+        }
+      ]
+    },
+    {
+      "title": "RMA-73 Publish test",
+      "description": "RMA-73 Publish test\r\n",
+      "cms_id": "308",
+      "category": [
+        {
+          "id": "39",
+          "name": "Blank ICF"
+        }
+      ]
+    },
+    {
+      "image": {
+        "2x": {
+          "width": 260,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_2x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=p4JOU0QO",
+          "height": 260
+        },
+        "3x": {
+          "width": 441,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_3x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=2oc2RvLV",
+          "height": 441
+        },
+        "1x": {
+          "width": 200,
+          "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/styles/badge_s_1x/public/resources/patient-app/previews/2017-02/newspaper.jpg?itok=sqXT23aI",
+          "height": 200
+        }
+      },
+      "file": {
+        "url": "https://uat-nvcvooy-mxo6levu3yxpo.us.platform.sh/sites/default/files/resources/patient-app/%5B2017-02/Rev%20SIF.pdf",
+        "mimetype": "application/pdf",
+        "filesize": "95221"
+      },
+      "title": "gk test 0302",
+      "description": "gk test 0302\r\n",
+      "cms_id": "321",
+      "category": [
+        {
+          "id": "36",
+          "name": "Newsletter"
+        }
+      ]
+    }
+  ]
+}
