@@ -1,0 +1,32 @@
+{
+  "mobilesvc_pt_control": [
+    {
+      "active": null,
+      "added_by": null,
+      "arrival_time": "/Date(-62135578800000-0500)/",
+      "can_have_2nd_active": false,
+      "can_have_2nd_active_pt_control_id": null,
+      "comp_high": null,
+      "comp_key": null,
+      "comp_low": null,
+      "comp_mid": null,
+      "comp_new": null,
+      "days_valid": null,
+      "description": null,
+      "finalized_by": null,
+      "fsp_high": 0,
+      "fsp_key": null,
+      "fsp_low": 0,
+      "fsp_mid": 0,
+      "fsp_new": 0,
+      "last_mod_by": null,
+      "last_mod_date": null,
+      "mobilesvc_pt_control_id": 0,
+      "point_high": null,
+      "point_key": null,
+      "point_low": null,
+      "point_mid": null,
+      "point_new": null
+    }
+  ]
+}
