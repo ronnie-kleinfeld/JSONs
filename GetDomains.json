@@ -1,1 +1,16 @@
-[{"domain":"gmail.com","domain_id":1},{"domain":"yahoo.com","domain_id":2},{"domain":"hotmail.com","domain_id":3}]
+{
+  "GetDomains": [
+    {
+      "domain": "gmail.com",
+      "domain_id": 1
+    },
+    {
+      "domain": "yahoo.com",
+      "domain_id": 2
+    },
+    {
+      "domain": "hotmail.com",
+      "domain_id": 3
+    }
+  ]
+}
