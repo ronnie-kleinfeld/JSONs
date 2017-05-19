@@ -1,1 +1,8 @@
-{"crm_message_id":0,"message":null}
+{
+  "CrmMessage": [
+    {
+      "crm_message_id": 0,
+      "message": null
+    }
+  ]
+}
