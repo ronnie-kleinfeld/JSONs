@@ -1,1 +1,11 @@
-{"Password":"<hidden>","department":null,"ein":0,"firstname":null,"lastname":null,"must_reset_password":false,"password":null,"password_expires":null,"status":null}
+{
+  "Password": "<hidden>",
+  "department": "Player Services",
+  "ein": 123456789,
+  "firstname": "Ronnie",
+  "lastname": "Kleinfeld",
+  "must_reset_password": true,
+  "password": null,
+  "password_expires": null,
+  "status": null
+}
